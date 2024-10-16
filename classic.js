@@ -1,7 +1,7 @@
 /*
 
-› Create By Arlodragon b
-›  Alone
+› Create By Mbrazil
+›  mjr
 
                  
 */
@@ -48,7 +48,7 @@ participant: '0@s.whatsapp.net'
 },
 message: {
 listResponseMessage: {
-title: ` ◥◤◢◤ ★彡 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 ?彡★◥◣◥◤ `
+title: ` ◥◤◢◤ ★彡𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1 ?彡★◥◣◥◤ `
 }
 }
 }
@@ -301,7 +301,7 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1`,
+        title : `𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1`,
         body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -312,7 +312,7 @@ const zetsreply = async (teks) => {
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1`,
+        title : `𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1`,
         body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -323,7 +323,7 @@ const virgamreply = async (teks) => {
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1`,
+        title : `𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1`,
         body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -404,7 +404,7 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ★彡 TIGER BUGBOT 彡★ `
+` ★彡 MBRAZIL BUGBOT 彡★ `
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1.....'})//Pengalih isu
 
@@ -524,7 +524,7 @@ await zetsubo.relayMessage(target, etc.message, { participant: { jid: target }, 
 if (!zetsubo.public) {
 if (!m.key.fromMe) return
 }
-let rn = ['composing']
+let rn = ['online']
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 zetsubo.sendPresenceUpdate(jd, from)
@@ -1002,10 +1002,10 @@ break
 case 'menu': case 'help': {
 let messg = `
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-┃    \`𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1\`
+┃    \`𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1\`
 ┃━━━━━━━━━━━━━━━━━━━━❖
-┃   🔹 𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 ❴ 𝙱𝚈 𝕬𝖗𝖑𝖔𝖉𝖗𝖆𝖌𝖔𝖓 ❵
-┃   ⚜️ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: 𝕬𝖗𝖑𝖔𝖉𝖗𝖆𝖌𝖔𝖓
+┃   🔹 𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 ❴ by mbrazil ❵
+┃   ⚜️ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: Mbrazil
 ┃   🔰 𝐔𝐬𝐞𝐫 : @${m.sender.split('@')[0]}
 ┃
 ┏━━━━━━━━━━━━━━━━━━━━━━
@@ -1027,7 +1027,7 @@ let messg = `
 ┃    ❖𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 ┃    ❖𝐌𝐞𝐧𝐮𝐭𝐲𝐩𝐞
 ┗━━━━━━━━━━━━━━━━━━━━━𓅓
-©𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴 `
+©MBRAZIL `
 
 global.logo = "https://telegra.ph/file/8ac8289f695113fd799b4.jpg"
 global.vidmenu = "https://telegra.ph/file/cc872e19bc191d8fea29c.mp4"
@@ -1066,7 +1066,7 @@ case 'virusmenu': {
   ⚠️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
 ┏━━━━━━━━━━━━━━━━━━
-┃🔗 𝐞𝐯𝐢𝐥-𝐭𝐢𝐠𝐞𝐫 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃🔗 𝐞𝐯𝐢𝐥-brazil (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
 ┃🔗 𝐫.𝐢.𝐩 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
 ┃🔗 𝐰𝐚-𝐜𝐫𝐚𝐬𝐡(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
 ┃🔗 𝐟𝐚𝐥𝐥𝐞𝐧-𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
@@ -1074,17 +1074,17 @@ case 'virusmenu': {
 ┃🔗 𝐛𝐢𝐠𝐝𝐢𝐜𝐤 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
 ┃🔗 𝐝𝐫𝐚𝐠𝐨𝐧𝐥𝐞𝐚𝐝
 ┃🔗 𝐞𝐯𝐢𝐥𝐥𝐢𝐬𝐭
-┃🔗 𝐭𝐢𝐠𝐞𝐫𝐡𝐮𝐧𝐭 (254xxxxx)
+┃🔗 brazil𝐡𝐮𝐧𝐭 (254xxxxx)
 ┗━━━━━━━━━━━━━━━━━━
 
-©𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽 
+©MBRAZIL
  
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfom:{externalAdReply:{
-  title: '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1   - 𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴',
+  title: '𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1   - 𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴',
   body: '𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴', 
   showAdAttribution: true,
   thumbnail:hinachan,
@@ -1111,7 +1111,7 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓',
+  title: '𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1',
   body: '𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴', 
   showAdAttribution: true,
   thumbnail:hinachan,
@@ -1162,7 +1162,7 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓',
+  title: '𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1',
   body: '༐༑⿻⧉ARLODRAGON⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
@@ -1200,7 +1200,7 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉',
+  title: '𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1',
   body: '⧉ARLODRAGON⧉', 
   showAdAttribution: true,
   thumbnail:hinachan,
@@ -1214,7 +1214,7 @@ break
 //=================================================//
 case 'randommenu': {
 
-                            ewe = `*𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓* 
+                            ewe = `*𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1* 
   ❤️‍🔥 𝐔𝐬𝐞𝐫 : ${pushname}}
   ☢️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
@@ -1263,7 +1263,7 @@ image: cewegw,
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 ARLODRAGON  ᚛⿻',
-  body: '༐༑⿻⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺༔༐༑', 
+  body: '𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1276,7 +1276,7 @@ break
 //=================================================//
 case 'Islammenu': {
 
-                            ewe = ` *𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓*
+                            ewe = ` *𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1*
 ┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
@@ -1311,14 +1311,14 @@ case 'Islammenu': {
 ┃➟ 𝐚𝐥𝐪𝐮𝐫𝐚𝐧
 ┃➟ 𝐥𝐢𝐬𝐭𝐬𝐮𝐫𝐚𝐡
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥➥❰*𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 ®2024*❱➥➥➥
+┃  ➥➥➥❰*𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰⧉⸙ARLODRAGON⸙⧉',
-  body: '⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺', 
+  body: '𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1331,8 +1331,8 @@ break
 //=================================================//
 case 'textmaker': {
 
-                            ewe = `┏━━━❰ *𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓* ❱━━━━━━ 
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍❵
+                            ewe = `┏━━━❰ *𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1* ❱━━━━━━ 
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ BY MBRAZIL❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1393,7 +1393,7 @@ case 'textmaker': {
 ┃➟ 𝒉𝒐𝒓𝒓𝒐𝒓𝒃𝒍𝒐𝒐𝒅
 ┃➟ 𝒕𝒉𝒖𝒏𝒅𝒆𝒓
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ✢✢❰ *𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 ®2024* ❱✢✢
+┃ ✢✢❰ *𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1 ®2024* ❱✢✢
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
@@ -1401,7 +1401,7 @@ image: cewegw,
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰⧉⸙ARLODRAGON⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑', 
+  body: '𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1589,7 +1589,7 @@ image: cewegw,
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰⧉ARLODRAGON⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑', 
+  body: '𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1602,7 +1602,7 @@ break
 //=================================================//
 case 'addmenu': {
 
-                            ewe = ` *𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓* 
+                            ewe = ` *𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1* 
   ❤️‍🔥 𝐔𝐬𝐞𝐫 : ${pushname}}
   ☢️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━ 𝑨𝑫𝑫 𝑴𝑬𝑵𝑼 ━━━━━
@@ -1641,7 +1641,7 @@ image: cewegw,
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰⧉⸙ARLODRAGON⸙⧉',
-  body: '༐༑⿻⫹⸙⧉☢️𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓☢️⧉⸙⫺',showAdAttribution: true,
+  body: '𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1',showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
@@ -1653,8 +1653,8 @@ break
 //=================================================//
 case 'cucimata': {
 
-                            ewe = `┏━━━▓ *𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓* ▓━━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 ❵
+                            ewe = `┏━━━▓ *𝑀𝐵𝑅𝐴𝑍𝐼𝐿 𝑉1* ▓━━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 MBRAZIL ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
