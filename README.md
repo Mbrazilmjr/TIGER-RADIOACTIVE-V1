@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝚻𝚰𝐆𝚵𝚪+𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+STAR MY REPO." alt="Typing SVG" /></a>
 <p align="center">
-<img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
+<img src="https://i.imgur.com/Z5R5fvO.jpeg"/>
 
 </p>
 
@@ -10,7 +10,7 @@
 <a href="https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
-<a href="https://arlodragonpairingcode-70c89e91c606.herokuapp.com/pair"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-h?color=black&style=for-the-badge&logo=stacklike"></a>    
+<a href="https://tiger-radioactive-f1508ee3c04c.herokuapp.com/pair"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-h?color=black&style=for-the-badge&logo=stacklike"></a>    
   
 𝗛𝗘𝗥𝗢𝗞𝗨 𝗕𝗨𝗜𝗟𝗗𝗣𝗔𝗖𝗞𝗦.
                                
